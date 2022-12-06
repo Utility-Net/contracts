@@ -1,2 +1,7 @@
 # contracts
-contract of token
+contract code
+
+# declaration
+
+1. Contract.sol
+ - Contract of token
